@@ -1,5 +1,3 @@
-
-
 <h1 align='center'>
   Hey there I'm Devlopr
 </h1>
@@ -9,7 +7,8 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=heyDevlopr&show_icons=true&count_private=true&theme=github_dark" width="330"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=heyDevlopr&show_icons=true&count_private=true&theme=github_dark" height="150"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyDevlopr&layout=compact&theme=github_dark" height="150"/></a>
 </p>
 
 
@@ -59,6 +58,10 @@
 
 ---
 
+<h2 align='center'>Pins</h2>
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyDevlopr&layout=compact&theme=github_dark">
+  <a href="https://github.com/Key2img/Key2Img"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Key2Img&repo=Key2Img&theme=github_dark" width="370" /></a>
+  <a href="https://github.com/heyDevlopr/Markdown"><img src="https://github-readme-stats.vercel.app/api/pin/?username=heyDevlopr&repo=Markdown&theme=github_dark" width="370" /></a>
+  <a href="https://github.com/heyDevlopr/imghide"><img src="https://github-readme-stats.vercel.app/api/pin/?username=heyDevlopr&repo=imghide&theme=github_dark" width="370" /></a>
+  <a href="https://github.com/heyDevlopr/Cleanr"><img src="https://github-readme-stats.vercel.app/api/pin/?username=heyDevlopr&repo=Cleanr&theme=github_dark" width="370" /></a>
 </p>
