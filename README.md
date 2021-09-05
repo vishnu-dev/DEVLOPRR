@@ -60,5 +60,5 @@
 ---
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyDevlopr&theme=github_dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyDevlopr&layout=compact&theme=github_dark">
 </p>
