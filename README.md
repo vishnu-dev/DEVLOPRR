@@ -9,7 +9,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=heyDevlopr&show_icons=true&count_private=true&theme=dark" width="330"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=heyDevlopr&show_icons=true&count_private=true&theme=github_dark" width="330"></a>
 </p>
 
 
@@ -56,3 +56,9 @@
 <img align="right" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+
+---
+
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyDevlopr&theme=github_dark">
+</p>
