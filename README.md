@@ -63,5 +63,4 @@
   <a href="https://github.com/Key2img/Key2Img"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Key2Img&repo=Key2Img&theme=github_dark" width="370" /></a>
   <a href="https://github.com/heyDevlopr/Markdown"><img src="https://github-readme-stats.vercel.app/api/pin/?username=heyDevlopr&repo=Markdown&theme=github_dark" width="370" /></a>
   <a href="https://github.com/heyDevlopr/imghide"><img src="https://github-readme-stats.vercel.app/api/pin/?username=heyDevlopr&repo=imghide&theme=github_dark" width="370" /></a>
-  <a href="https://github.com/heyDevlopr/Cleanr"><img src="https://github-readme-stats.vercel.app/api/pin/?username=heyDevlopr&repo=Cleanr&theme=github_dark" width="370" /></a>
 </p>
