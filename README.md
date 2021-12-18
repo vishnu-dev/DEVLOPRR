@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hey there I'm Devlopr
+  Hey there I'm Aditya
 </h1>
 
 <p align='center'>
@@ -7,16 +7,16 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=heyDevlopr&show_icons=true&count_private=true&theme=github_dark" height="150"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyDevlopr&layout=compact&theme=github_dark" height="150"/></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=DEVLOPRR&show_icons=true&count_private=true&theme=github_dark" height="150"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVLOPRR&layout=compact&theme=github_dark" height="150"/></a>
 </p>
 
 
 <p align='center'>
-  <a href="https://instagram.com/heyDevlopr">
+  <a href="https://instagram.com/DEVLOPRRR">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://codepen.io/devlopr">
+  <a href="https://codepen.io/DEVLOPR">
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/channel/UCVmQpp6Ah3s6JnbBvA5Nh7A?sub_confirmation=1">
@@ -61,7 +61,7 @@
 <h2 align='center'>Pins</h2>
 <p align='center'>
   <a href="https://github.com/Key2img/Key2Img"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Key2Img&repo=Key2Img&theme=github_dark" width="370" /></a>
-  <a href="https://github.com/heyDevlopr/Markdown"><img src="https://github-readme-stats.vercel.app/api/pin/?username=heyDevlopr&repo=Markdown&theme=github_dark" width="370" /></a>
-  <a href="https://github.com/heyDevlopr/imghide"><img src="https://github-readme-stats.vercel.app/api/pin/?username=heyDevlopr&repo=imghide&theme=github_dark" width="370" /></a>
-  <a href="https://github.com/heyDevlopr/taskapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=heyDevlopr&repo=taskapp&theme=github_dark" width="370" /></a>
+  <a href="https://github.com/DEVLOPRR/Markdown"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DEVLOPRR&repo=Markdown&theme=github_dark" width="370" /></a>
+  <a href="https://github.com/DEVLOPRR/imghide"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DEVLOPRR&repo=imghide&theme=github_dark" width="370" /></a>
+  <a href="https://github.com/DEVLOPRR/taskapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DEVLOPRR&repo=taskapp&theme=github_dark" width="370" /></a>
 </p>
