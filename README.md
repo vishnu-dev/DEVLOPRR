@@ -55,13 +55,3 @@
 <a href="#"><img align="right" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /></a>
 <a href="#"><img align="right" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" /></a>
 <a href="#"><img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
-
----
-
-<h2 align='center'>Pins</h2>
-<p align='center'>
-  <a href="https://github.com/Key2img/Key2Img"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Key2Img&repo=Key2Img&theme=github_dark" width="370" /></a>
-  <a href="https://github.com/DEVLOPRR/Markdown"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DEVLOPRR&repo=Markdown&theme=github_dark" width="370" /></a>
-  <a href="https://github.com/DEVLOPRR/imghide"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DEVLOPRR&repo=imghide&theme=github_dark" width="370" /></a>
-  <a href="https://github.com/DEVLOPRR/taskapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DEVLOPRR&repo=taskapp&theme=github_dark" width="370" /></a>
-</p>
